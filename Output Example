@@ -1,0 +1,108 @@
+Welcome to the Dungeon
+-----------------------------------------------
+	# Skeleton Fighter appeared! #
+
+	Your HP: 100
+	Skeleton Fighter's HP: 51
+
+	What would you like to do?
+	1. Attack
+	2. Drink health potion
+	3. Run!
+2
+	> You drink a health potion healing you for 30.
+	> You now have 130 HP.
+	> You have 2 health potions left.
+
+	Your HP: 130
+	Skeleton Fighter's HP: 51
+
+	What would you like to do?
+	1. Attack
+	2. Drink health potion
+	3. Run!
+1
+	> You strike the Skeleton Fighter for 19.
+	> The Skeleton Fighter strikes back for 3.
+	Your HP: 127
+	Skeleton Fighter's HP: 32
+
+	What would you like to do?
+	1. Attack
+	2. Drink health potion
+	3. Run!
+1
+	> You strike the Skeleton Fighter for 34.
+	> The Skeleton Fighter strikes back for 19.
+-----------------------------------------------
+ # Skeleton Fighter was defeated! # 
+ # You have 108 HP left. #
+-----------------------------------------------
+What would you like to do now?
+1. Continue fighting
+2. Exit Dungeon
+1
+You continue on your adventure.
+-----------------------------------------------
+	# Skeleton Knight appeared! #
+
+	Your HP: 108
+	Skeleton Knight's HP: 19
+
+	What would you like to do?
+	1. Attack
+	2. Drink health potion
+	3. Run!
+1
+	> You strike the Skeleton Knight for 22.
+	> The Skeleton Knight strikes back for 14.
+-----------------------------------------------
+ # Skeleton Knight was defeated! # 
+ # You have 94 HP left. #
+ # The Skeleton Knight dropped a health potion. #
+ # YOu now have 3 health potion(s). # 
+-----------------------------------------------
+What would you like to do now?
+1. Continue fighting
+2. Exit Dungeon
+1
+You continue on your adventure.
+-----------------------------------------------
+	# Skeleton Fighter appeared! #
+
+	Your HP: 94
+	Skeleton Fighter's HP: 35
+
+	What would you like to do?
+	1. Attack
+	2. Drink health potion
+	3. Run!
+3
+	You run away from the Skeleton Fighter.
+-----------------------------------------------
+	# Skeleton Knight appeared! #
+
+	Your HP: 94
+	Skeleton Knight's HP: 13
+
+	What would you like to do?
+	1. Attack
+	2. Drink health potion
+	3. Run!
+1
+	> You strike the Skeleton Knight for 38.
+	> The Skeleton Knight strikes back for 17.
+-----------------------------------------------
+ # Skeleton Knight was defeated! # 
+ # You have 77 HP left. #
+ # The Skeleton Knight dropped a health potion. #
+ # YOu now have 4 health potion(s). # 
+-----------------------------------------------
+What would you like to do now?
+1. Continue fighting
+2. Exit Dungeon
+2
+You exit the dungeon, successful from your adventures
+######################
+# THANKS FOR PLAYING #
+######################
